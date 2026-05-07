@@ -6,5 +6,4 @@
 
 Выполните от **root**:
 
-```bash
-bash <(wget -qO- https://raw.githubusercontent.com/blablajka/AS_Network_List_for-debian/main/install.sh)
+```wget -qO- https://raw.githubusercontent.com/blablajka/AS_Network_List_for-debian/main/install.sh | bash
