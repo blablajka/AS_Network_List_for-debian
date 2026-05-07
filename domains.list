@@ -1,22 +1,54 @@
-# Список доменов для блокировки
+# ============================================
+# Список доменов для полной блокировки
+# (без Telegram, WhatsApp и других легитимных сервисов)
+# ============================================
+
+# --- Домены мессенджера MAX и связанные сервисы ---
 calls.okcdn.ru
 download.max.ru
-gosuslugi.ru
 help.max.ru
+max.ru
+st.max.ru
+web.max.ru
+business.max.ru
+platform-api.max.ru
+
+# --- Домены для определения IP-адреса клиента ---
 ip.mail.ru
 ipv4-internet.yandex.net
 ipv6-internet.yandex.net
-max.ru
 privacy-cs.mail.ru
 top-fwz1.mail.ru
 trk.mail.ru
-api-gost.oneme.ru
-fgost.oneme.ru
-gov.ru
-voskhod.ru
-nuc-cdp.digital.gov.ru
-nuc-cdp.voskhod.ru
-ws-api.oneme.ru
-oneme.ru
 adstat.yandex.ru
 mc.yandex.ru
+
+api.ipify.org
+checkip.amazonaws.com
+ifconfig.me
+2ip.ru
+whoer.net
+icanhazip.com
+ident.me
+ifconfig.co
+ip.sb
+ipinfo.io
+ip-api.com
+myip.com
+whatismyip.com
+wtfismyip.com
+
+# --- Домены для проверки доступности (разного рода) ---
+gosuslugi.ru
+gov.ru
+gstatic.com
+voskhod.ru
+
+# --- Домены инфраструктуры ONEME ---
+oneme.ru
+i.oneme.ru
+ws-api.oneme.ru
+api-gost.oneme.ru
+fgost.oneme.ru
+nuc-cdp.digital.gov.ru
+nuc-cdp.voskhod.ru
